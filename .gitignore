@@ -1,4 +1,1 @@
-venv > .gitignore // creat a git ignore
-
-
-echo venv // creat a git ignore
+venv
